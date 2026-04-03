@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[42737,["/martin-plomberie/_next/static/chunks/0y-qfk9f418ye.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col items-center justify-center px-4 text-center","children":[["$","h1",null,{"className":"mb-2 text-6xl font-extrabold text-gray-900","children":"404"}],["$","p",null,{"className":"mb-6 text-lg text-gray-600","children":"Cette page n'existe pas."}],["$","a",null,{"href":"/","className":"rounded-xl px-6 py-3 font-semibold text-white transition hover:opacity-90","style":{"backgroundColor":"#2563eb"},"children":"Retour à l'accueil"}],["$","p",null,{"className":"mt-8 text-sm text-gray-400","children":["Besoin d'aide ? Appelez le"," ",["$","a",null,{"href":"tel:+41211234567","className":"underline","children":"+41 21 123 45 67"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yfAbx1rm44wChxaVFf6I1"}
+4:null
